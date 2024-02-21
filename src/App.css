@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.btn-conatiner{
+    display: flex;
+    margin-top: 50px;
+    margin-left: -20px;
+    align-items: center;
+}
+.btn-conatiner input{
+    margin-left: 35px;
+    border-radius: 5px;
+}
+.btn-conatiner input:hover{
+    background-color: rgb(31, 122, 149);
+    transition: 0.5s ease-in;
+    color: white;
+}
+.display input{
+    border-radius: 10px;
+}
+h3{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.botton-style{
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+}
+.pluse{
+    width:130px;
+    padding-left: 50px;
+}
